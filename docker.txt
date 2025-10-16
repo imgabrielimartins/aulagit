@@ -1,2 +1,5 @@
 Esta linha foi inserida no GitHub.
+
 Esta linha foi inserida no branch ramo1.
+
+Esta linha vai gerar um conflito.
